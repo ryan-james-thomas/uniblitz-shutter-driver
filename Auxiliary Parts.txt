@@ -1,0 +1,25 @@
+Name: Fuse
+Digikey: 507-1243-ND
+Quantity/Board: 1
+Description: 500 mA slow-blow fuse in a 5x20 mm glass cartridge package.  If the high-voltage is stuck, should blow in 2 s.
+
+Name: 2x1 connector male
+Digikey: S1012EC-02-ND
+Quantity/Board: 1
+Description: 2x1 male header to mount on board so that LED can be mounted on a box chassis.
+
+Name: 2x1 connector female
+Digikey: 2057-RS1-02-G-ND
+Quantity/Board: 1
+Description: 2x1 female header to solder to LED wires and connect to male header
+
+Name: 3x1 connector female
+Digikey: S7036-ND
+Quantity/Board: 1
+Description: 3x1 female header to solder to switch wires and mate with male switch header
+
+Name: SPDT switch
+Digikey: EG2350-ND
+Quantity/Board: 1
+Description: SPDT switch for inverting logic polarity
+
